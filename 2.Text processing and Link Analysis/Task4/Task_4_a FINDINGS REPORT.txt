@@ -1,0 +1,26 @@
+
+Compared to the baseline as we keep increasing the lambda or decreasing the Damping factor values the rank scores
+for lower ranked pages seems to be converging and becoming closer to equal.
+At lambda of 0.5 the rank values are a lot closer to each other.
+
+2.Compared to the baseline on running only 4 iterations the top 10 ranks are the same and after that there are
+some differences. The 4th l2 norm value is not less that 0.0005 so this is not an accurate page rank estimation.
+
+3.The top 25 in link counts are  slightly different to the baseline, some of the links are differently ordered
+compared to the baseline. We can see some links which have the same rank in both the ranking systems.
+
+
+
+Pros of using in link count sorting:
+
+1.The process of calculating the in-links counts to a particular Document is easier/faster than the Page Rank as we dont have to check for convergence .
+2.Every count in-link to page is considered a vote of support. The page is likely to be visited first than the pages
+without many in-links. Links relevant to the seed URL are visited as top choices.
+
+Cons:
+
+1.A page can be considered important even if there are spam links pointing to the page, without any relevant content.
+2.If the Document has more in-links, the algorithm considers it important but there could be other pages that are more
+important (According to PageRank calculation).
+3) Page Rank takes into consideration both the damping_factor and the in_links thereby increasing the importance
+of the page .

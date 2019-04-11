@@ -1,0 +1,8 @@
+Task 1 G)
+
+The Graph clearly indicates that our collection of trigrams adheres to
+Zipf ’s law,
+which states that the frequency of the rth most common word is inversely proportional
+to r or, alternatively, the rank of a word times its frequency (f) is approximately
+a constant (k) or r * P(r) = c
+the constant comes out to c = 0.1695...... 

@@ -1,0 +1,8 @@
+Sources 
+[]
+Sinks 
+['Demand_(economics)', 'Marketing_mix', 'Marinococcus', 'Stalin_vs._Martians', 'Men,_Martians_and_Machines', 'Marie_Curie', 'Don_Markstein%27s_Toonopedia', 'Marie_Sk%C5%82odowska_Curie', 'World_Register_of_Marine_Species', 'Francesco_Maria_Grimaldi', 'U.S._customary_units', 'Marvel_Family', 'Maurice_LaMarche', 'Vladimir_Mikhailovich_Komarov', 'Lyapunov_stability', 'Marble_(toy)', 'Sub_Marine_Explorer', 'Smart_Communications', 'Martha_Coolidge', 'Alastair_Reynolds', 'Mars_Society_Australia', 'United_States_customary_units', 'Mark_82_bomb', 'Mariana_Trench', 'Fractional_Orbital_Bombardment_System', 'Marshall_Savage', 'Al-Aqsa_Martyrs%27_Brigades', 'Lamarckism', 'Marriage', 'Marching_band', 'Danish_Maritime_Authority', 'Marty_Friedman_(guitarist)', 'Biz_Markie', 'Denmark_Strait', 'Submarine_power_cable', 'Terraforming_Mars_(board_game)', 'San_Marino', 'Technical_University_of_Denmark', 'The_Martian_Chronicles_(video_game)', 'Return_to_Mars', 'Mark_Andrews_(filmmaker)', 'Trojan_Marching_Band', 'Bi-Mart', 'Steve_Martin', 'Lobster_Man_from_Mars', 'Mars_Matrix', 'Mary_A._Turzillo', 'Sky_Galleons_of_Mars', 'Monroe_H._Martin_Prize', 'Apis_mellifera_lamarckii', 'Aconitum_lamarckii', 'Lamarckia', 'Rhizophora_x_lamarckii', 'Oenothera_lamarckiana', 'Amelanchier_lamarckii', 'Martin_J._S._Rudwick', 'Digitalis_lanata']
+Max In-Degree 
+462
+Max Out-Degree
+235

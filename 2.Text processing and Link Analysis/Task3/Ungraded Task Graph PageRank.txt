@@ -1,0 +1,11 @@
+PageRank		Page(Prefix + docID)
+0.25203637602817186	https://en.wikipedia.org/wiki/A
+0.18710661014291716	https://en.wikipedia.org/wiki/E
+0.15129376593475075	https://en.wikipedia.org/wiki/C
+0.15129376593475075	https://en.wikipedia.org/wiki/F
+0.13930650918251083	https://en.wikipedia.org/wiki/B
+0.11896297277689881	https://en.wikipedia.org/wiki/D
+
+
+Note: 
+For example graph Ignore the prefixes

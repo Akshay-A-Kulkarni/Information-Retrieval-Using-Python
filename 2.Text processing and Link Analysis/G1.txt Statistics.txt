@@ -1,0 +1,8 @@
+Sources 
+[]
+Sinks 
+['Private_property', 'Lethargy', 'Emmeline_Stuart-Wortley', 'Acute_health_hazard', 'Crore', 'Land_claim', 'Alpine_exploration', 'Northwestern_India']
+Max In-Degree 
+345
+Max Out-Degree
+373
