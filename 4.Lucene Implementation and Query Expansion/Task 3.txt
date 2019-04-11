@@ -1,0 +1,29 @@
+Experimenting with n values -
+The change in n value resulted in terms generated to be a bit more wider.
+most of the values are matching with n = 10 and 15 and positions change only a little bit, and has
+remaining words which seemed relevant.
+
+Experimenting with k values -
+At k = 5, the terms seems to be similar to query terms and very focused.
+At k = 10, seemed to be not too focused and had good relevancy to the query.
+At k = 15, there is a little more variance, but these seemed a little less relevant.
+So, k = 10 seemed to provide balance between both.
+
+
+Comparison between 1.b and 2.b document ranks:
+I have compared results in query 5 and query 1.
+
+Query 5 - unmanned spacecraft:
+In the top 100 documents between both the rankings there were 93 differences in the
+documents regardless of difference in ranking.
+
+
+Query 1 - Robotic space missions:
+In the top 100 documents between both the rankings there were 7 overlap in the documents
+regardless of difference in ranking.
+
+
+Conclusions:
+The rankings are also significantly different.
+In Task2.b there seems to repetition inrankings and programs/docs relevant to space missions turned up on the top.
+ 
