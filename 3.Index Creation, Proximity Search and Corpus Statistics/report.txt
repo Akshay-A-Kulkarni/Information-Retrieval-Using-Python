@@ -1,0 +1,12 @@
+﻿Q. How would you choose your cutoff values? Briefly justify your choice and comment on the stoplists’ contents.
+
+
+
+A. After observing, exploring and experimenting various ways (e.g. tf–idf) to determine stop terms,
+   I found that using document frequency table yields satisfying results. Most stopwords tend to high frequency values associated with them,
+   Hence regarding the cutoff values, I also tried a few different values and found 600-700 to be a good choice. With this cutoff value,
+   the stoplists contain enough stop terms with only grammar function and not too many terms that's topic-related ie.("space" etc).
+   to further refine the list I decided to use a existing stopwords repository from nltk to cross-reference stopwords generated and exclude
+   words like "space" which would have been meaning full, since terms closely related to the overall theme wil have high frequencies.
+   And also we can observe the number of stop terms decreases with bigger n that is as the ngram size is increased.
+   In fact the Tri-gram stoplist is even empty. From this phenomenon we can see the combination of words often have more meaning instead of only grammar function.
