@@ -1,0 +1,200 @@
+5 Q0   1                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Dawn_(spacecraft).txt :score= 9.3962279  Akshay_Lucene_BM25
+
+5 Q0   2                                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mars_to_Stay.txt :score= 8.7867169  Akshay_Lucene_BM25
+
+5 Q0   3                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_exploration.txt :score= 8.3250689  Akshay_Lucene_BM25
+
+5 Q0   4                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Colonization_of_the_Moon.txt :score= 7.2426049  Akshay_Lucene_BM25
+
+5 Q0   5                                      C:\Users\Akshay\IdeaProjects\Hw5\corpus\Panspermia.txt :score= 6.2312799  Akshay_Lucene_BM25
+
+5 Q0   6                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\AntÃ³nio_de_Abreu.txt :score= 5.9781479  Akshay_Lucene_BM25
+
+5 Q0   7                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\List_of_missions_to_Mars.txt :score= 5.7975819  Akshay_Lucene_BM25
+
+5 Q0   8                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Discovery_program.txt :score= 5.7505299  Akshay_Lucene_BM25
+
+5 Q0   9                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Aurora_programme.txt :score= 5.7349189  Akshay_Lucene_BM25
+
+5 Q0  10                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Exploration_of_Mars.txt :score= 5.7168159  Akshay_Lucene_BM25
+
+5 Q0  11                                      C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mars_Curse.txt :score= 5.7168159  Akshay_Lucene_BM25
+
+5 Q0  12                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\Sample_return_mission.txt :score= 5.7076319  Akshay_Lucene_BM25
+
+5 Q0  13                                  C:\Users\Akshay\IdeaProjects\Hw5\corpus\Gemini_program.txt :score= 5.5912799  Akshay_Lucene_BM25
+
+5 Q0  14                                  C:\Users\Akshay\IdeaProjects\Hw5\corpus\Project_Gemini.txt :score= 5.5912799  Akshay_Lucene_BM25
+
+5 Q0  15                                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\NASA.txt :score= 5.5713549  Akshay_Lucene_BM25
+
+5 Q0  16                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Interplanetary_contamination.txt :score= 5.5428989  Akshay_Lucene_BM25
+
+5 Q0  17                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Lander_(spacecraft).txt :score= 5.5183469  Akshay_Lucene_BM25
+
+5 Q0  18                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_architecture.txt :score= 5.4745829  Akshay_Lucene_BM25
+
+5 Q0  19                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Vision_for_Space_Exploration.txt :score= 5.4717339  Akshay_Lucene_BM25
+
+5 Q0  20                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\Constellation_program.txt :score= 5.4692179  Akshay_Lucene_BM25
+
+5 Q0  21                                   C:\Users\Akshay\IdeaProjects\Hw5\corpus\Phobos_(moon).txt :score= 5.4407269  Akshay_Lucene_BM25
+
+5 Q0  22                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\SpaceX.txt :score= 5.4313769  Akshay_Lucene_BM25
+
+5 Q0  23                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mars_probe_program.txt :score= 5.4176699  Akshay_Lucene_BM25
+
+5 Q0  24   C:\Users\Akshay\IdeaProjects\Hw5\corpus\Discovery_and_exploration_of_the_Solar_System.txt :score= 5.3983169  Akshay_Lucene_BM25
+
+5 Q0  25                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Age_of_Discovery.txt :score= 5.3957919  Akshay_Lucene_BM25
+
+5 Q0  26                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Age_of_Exploration.txt :score= 5.3957919  Akshay_Lucene_BM25
+
+5 Q0  27                                  C:\Users\Akshay\IdeaProjects\Hw5\corpus\Phobos_program.txt :score= 5.3907909  Akshay_Lucene_BM25
+
+5 Q0  28                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Colonization_of_Mars.txt :score= 5.3536879  Akshay_Lucene_BM25
+
+5 Q0  29                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Soviet_space_program.txt :score= 5.3455209  Akshay_Lucene_BM25
+
+5 Q0  30                  C:\Users\Akshay\IdeaProjects\Hw5\corpus\Health_threat_from_cosmic_rays.txt :score= 5.3452669  Akshay_Lucene_BM25
+
+5 Q0  31              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Japan_Aerospace_Exploration_Agency.txt :score= 5.3130799  Akshay_Lucene_BM25
+
+5 Q0  32C:\Users\Akshay\IdeaProjects\Hw5\corpus\Review_of_United_States_Human_Space_Flight_Plans_Committee.txt :score= 5.3050149  Akshay_Lucene_BM25
+
+5 Q0  33                                      C:\Users\Akshay\IdeaProjects\Hw5\corpus\Spacecraft.txt :score= 5.2963969  Akshay_Lucene_BM25
+
+5 Q0  34                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Valeri_Polyakov.txt :score= 5.2722129  Akshay_Lucene_BM25
+
+5 Q0  35                                   C:\Users\Akshay\IdeaProjects\Hw5\corpus\Flexible_path.txt :score= 5.2652039  Akshay_Lucene_BM25
+
+5 Q0  36                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mars_3.txt :score= 5.2439689  Akshay_Lucene_BM25
+
+5 Q0  37                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Rover_(space_exploration).txt :score= 5.2406539  Akshay_Lucene_BM25
+
+5 Q0  38                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mariner_4.txt :score= 5.2402429  Akshay_Lucene_BM25
+
+5 Q0  39                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_probe.txt :score= 5.2365279  Akshay_Lucene_BM25
+
+5 Q0  40                                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Zond_program.txt :score= 5.2347849  Akshay_Lucene_BM25
+
+5 Q0  41                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mars_Orbiter_Mission.txt :score= 5.2176889  Akshay_Lucene_BM25
+
+5 Q0  42                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Fobos-Grunt.txt :score= 5.2091149  Akshay_Lucene_BM25
+
+5 Q0  43                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Spice_trade.txt :score= 5.1802069  Akshay_Lucene_BM25
+
+5 Q0  44         C:\Users\Akshay\IdeaProjects\Hw5\corpus\Effect_of_spaceflight_on_the_human_body.txt :score= 5.1194759  Akshay_Lucene_BM25
+
+5 Q0  45               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Timeline_of_planetary_exploration.txt :score= 5.1052689  Akshay_Lucene_BM25
+
+5 Q0  46            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Timeline_of_Solar_System_exploration.txt :score= 5.1052689  Akshay_Lucene_BM25
+
+5 Q0  47                         C:\Users\Akshay\IdeaProjects\Hw5\corpus\Diogo_Fernandes_Pereira.txt :score= 5.0996319  Akshay_Lucene_BM25
+
+5 Q0  48                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\Chinese_space_program.txt :score= 5.0572089  Akshay_Lucene_BM25
+
+5 Q0  49                C:\Users\Akshay\IdeaProjects\Hw5\corpus\In-space_propulsion_technologies.txt :score= 4.9875619  Akshay_Lucene_BM25
+
+5 Q0  50                                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mars.txt :score= 4.9811859  Akshay_Lucene_BM25
+
+5 Q0  51                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Atmospheric_reentry.txt :score= 4.9414209  Akshay_Lucene_BM25
+
+5 Q0  52                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Lunokhod_programme.txt :score= 4.8707029  Akshay_Lucene_BM25
+
+5 Q0  53                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Orion_(spacecraft).txt :score= 4.8118509  Akshay_Lucene_BM25
+
+5 Q0  54                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Human_spaceflight.txt :score= 4.8102869  Akshay_Lucene_BM25
+
+5 Q0  55                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Landings_on_other_planets.txt :score= 4.8078399  Akshay_Lucene_BM25
+
+5 Q0  56                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Lagrangian_point.txt :score= 4.7990289  Akshay_Lucene_BM25
+
+5 Q0  57                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Roscosmos.txt :score= 4.7990289  Akshay_Lucene_BM25
+
+5 Q0  58                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\European_Space_Agency.txt :score= 4.7979409  Akshay_Lucene_BM25
+
+5 Q0  59                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Unmanned_spacecraft.txt :score= 4.7938479  Akshay_Lucene_BM25
+
+5 Q0  60                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_Launch_System.txt :score= 4.7614789  Akshay_Lucene_BM25
+
+5 Q0  61                                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Viking_1.txt :score= 4.7285609  Akshay_Lucene_BM25
+
+5 Q0  62                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mariner_program.txt :score= 4.7238769  Akshay_Lucene_BM25
+
+5 Q0  63                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\Emirates_Mars_Mission.txt :score= 4.7236659  Akshay_Lucene_BM25
+
+5 Q0  64                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Spacefaring.txt :score= 4.7013149  Akshay_Lucene_BM25
+
+5 Q0  65                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Private_spaceflight.txt :score= 4.6733169  Akshay_Lucene_BM25
+
+5 Q0  66                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_colonization.txt :score= 4.5850659  Akshay_Lucene_BM25
+
+5 Q0  67                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Asteroid_mining.txt :score= 4.5734529  Akshay_Lucene_BM25
+
+5 Q0  68                                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Moon.txt :score= 4.4783439  Akshay_Lucene_BM25
+
+5 Q0  69                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Deep_space_exploration.txt :score= 4.4472929  Akshay_Lucene_BM25
+
+5 Q0  70                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Invention.txt :score= 4.4252379  Akshay_Lucene_BM25
+
+5 Q0  71                                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Moluccas.txt :score= 4.4252379  Akshay_Lucene_BM25
+
+5 Q0  72                                  C:\Users\Akshay\IdeaProjects\Hw5\corpus\Viking_program.txt :score= 4.4141069  Akshay_Lucene_BM25
+
+5 Q0  73                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\In-situ_resource_utilization.txt :score= 4.4064819  Akshay_Lucene_BM25
+
+5 Q0  74                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\Astrobotic_Technology.txt :score= 4.3935789  Akshay_Lucene_BM25
+
+5 Q0  75                                      C:\Users\Akshay\IdeaProjects\Hw5\corpus\Pioneer_10.txt :score= 4.3474469  Akshay_Lucene_BM25
+
+5 Q0  76           C:\Users\Akshay\IdeaProjects\Hw5\corpus\List_of_human_spaceflights_by_program.txt :score= 4.3365559  Akshay_Lucene_BM25
+
+5 Q0  77                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Rosetta_(spacecraft).txt :score= 4.3330439  Akshay_Lucene_BM25
+
+5 Q0  78                  C:\Users\Akshay\IdeaProjects\Hw5\corpus\European_exploration_of_Africa.txt :score= 4.2596929  Akshay_Lucene_BM25
+
+5 Q0  79                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Samuel_de_Champlain.txt :score= 4.2596929  Akshay_Lucene_BM25
+
+5 Q0  80                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_Shuttle_program.txt :score= 4.2476089  Akshay_Lucene_BM25
+
+5 Q0  81                                      C:\Users\Akshay\IdeaProjects\Hw5\corpus\Light_sail.txt :score= 4.2443579  Akshay_Lucene_BM25
+
+5 Q0  82                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Ceres_(dwarf_planet).txt :score= 4.2400369  Akshay_Lucene_BM25
+
+5 Q0  83                                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mir.txt :score= 4.2080869  Akshay_Lucene_BM25
+
+5 Q0  84                                      C:\Users\Akshay\IdeaProjects\Hw5\corpus\James_Cook.txt :score= 4.1693429  Akshay_Lucene_BM25
+
+5 Q0  85                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Valentin_Glushko.txt :score= 4.1364979  Akshay_Lucene_BM25
+
+5 Q0  86                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\International_Space_Station.txt :score= 4.0686859  Akshay_Lucene_BM25
+
+5 Q0  87                                   C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_tourism.txt :score= 4.0556139  Akshay_Lucene_BM25
+
+5 Q0  88                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_archaeology.txt :score= 4.0548849  Akshay_Lucene_BM25
+
+5 Q0  89                         C:\Users\Akshay\IdeaProjects\Hw5\corpus\Gravitational_slingshot.txt :score= 4.0407159  Akshay_Lucene_BM25
+
+5 Q0  90                                  C:\Users\Akshay\IdeaProjects\Hw5\corpus\Gravity_assist.txt :score= 4.0407159  Akshay_Lucene_BM25
+
+5 Q0  91                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Asia's_Space_Race.txt :score= 4.0206209  Akshay_Lucene_BM25
+
+5 Q0  92                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Astronaut.txt :score= 4.0099659  Akshay_Lucene_BM25
+
+5 Q0  93                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Cosmonaut.txt :score= 4.0099659  Akshay_Lucene_BM25
+
+5 Q0  94                                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Moon_landing.txt :score= 3.9591229  Akshay_Lucene_BM25
+
+5 Q0  95                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Luna_1.txt :score= 3.9406399  Akshay_Lucene_BM25
+
+5 Q0  96                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Venera_13.txt :score= 3.9406399  Akshay_Lucene_BM25
+
+5 Q0  97                                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Saturn_V.txt :score= 3.9294529  Akshay_Lucene_BM25
+
+5 Q0  98                                   C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_habitat.txt :score= 3.9184139  Akshay_Lucene_BM25
+
+5 Q0  99                                   C:\Users\Akshay\IdeaProjects\Hw5\corpus\Asteroid_belt.txt :score= 3.9061619  Akshay_Lucene_BM25
+
+5 Q0 100                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Cassiniâ€“Huygens.txt :score= 3.8844399  Akshay_Lucene_BM25
+

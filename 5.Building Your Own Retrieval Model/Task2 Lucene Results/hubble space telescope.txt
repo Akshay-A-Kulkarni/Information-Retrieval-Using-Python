@@ -1,0 +1,200 @@
+2 Q0   1                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Hubble_Space_Telescope.txt :score= 9.5179589  Akshay_Lucene_BM25
+
+2 Q0   2                                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Edwin_Hubble.txt :score= 9.0328879  Akshay_Lucene_BM25
+
+2 Q0   3                         C:\Users\Akshay\IdeaProjects\Hw5\corpus\Visible-light_astronomy.txt :score= 8.9464389  Akshay_Lucene_BM25
+
+2 Q0   4                                         C:\Users\Akshay\IdeaProjects\Hw5\corpus\4_Vesta.txt :score= 8.8906619  Akshay_Lucene_BM25
+
+2 Q0   5                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_observatory.txt :score= 8.6671179  Akshay_Lucene_BM25
+
+2 Q0   6                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_telescope.txt :score= 8.6671179  Akshay_Lucene_BM25
+
+2 Q0   7                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Marshall_Space_Flight_Center.txt :score= 8.6605289  Akshay_Lucene_BM25
+
+2 Q0   8                                         C:\Users\Akshay\IdeaProjects\Hw5\corpus\Airglow.txt :score= 8.5168909  Akshay_Lucene_BM25
+
+2 Q0   9                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Great_Dark_Spot.txt :score= 8.4769789  Akshay_Lucene_BM25
+
+2 Q0  10                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Ceres_(dwarf_planet).txt :score= 8.1416269  Akshay_Lucene_BM25
+
+2 Q0  11            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Wilkinson_Microwave_Anisotropy_Probe.txt :score= 8.1097769  Akshay_Lucene_BM25
+
+2 Q0  12                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_Shuttle_program.txt :score= 8.0852609  Akshay_Lucene_BM25
+
+2 Q0  13                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Galaxy.txt :score= 8.0718279  Akshay_Lucene_BM25
+
+2 Q0  14                                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Hubble's_law.txt :score= 8.0291319  Akshay_Lucene_BM25
+
+2 Q0  15                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Hubble_constant.txt :score= 8.0291319  Akshay_Lucene_BM25
+
+2 Q0  16                         C:\Users\Akshay\IdeaProjects\Hw5\corpus\ChuryumovâGerasimenko.txt :score= 7.9179789  Akshay_Lucene_BM25
+
+2 Q0  17                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Milky_Way.txt :score= 7.9117159  Akshay_Lucene_BM25
+
+2 Q0  18                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Rings_of_Uranus.txt :score= 7.8906619  Akshay_Lucene_BM25
+
+2 Q0  19                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Andromeda_Galaxy.txt :score= 7.8238029  Akshay_Lucene_BM25
+
+2 Q0  20                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Uranus.txt :score= 7.6074729  Akshay_Lucene_BM25
+
+2 Q0  21                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Metric_expansion_of_space.txt :score= 7.5915609  Akshay_Lucene_BM25
+
+2 Q0  22                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Dark_energy.txt :score= 7.5551999  Akshay_Lucene_BM25
+
+2 Q0  23                                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\NASA.txt :score= 7.3927759  Akshay_Lucene_BM25
+
+2 Q0  24                                         C:\Users\Akshay\IdeaProjects\Hw5\corpus\Neptune.txt :score= 7.3175989  Akshay_Lucene_BM25
+
+2 Q0  25                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Georges_LemaÃ®tre.txt :score= 7.2460269  Akshay_Lucene_BM25
+
+2 Q0  26                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Arcsecond.txt :score= 7.2419889  Akshay_Lucene_BM25
+
+2 Q0  27                                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Big_Bang.txt :score= 7.2177359  Akshay_Lucene_BM25
+
+2 Q0  28                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Big_Bang_cosmology.txt :score= 7.2177359  Akshay_Lucene_BM25
+
+2 Q0  29                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Telescope.txt :score= 7.2052809  Akshay_Lucene_BM25
+
+2 Q0  30                                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Redshift.txt :score= 7.0197599  Akshay_Lucene_BM25
+
+2 Q0  31                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Moons_of_Uranus.txt :score= 6.9162569  Akshay_Lucene_BM25
+
+2 Q0  32                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Tempel.txt :score= 6.8539159  Akshay_Lucene_BM25
+
+2 Q0  33                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mission_Control.txt :score= 6.8388349  Akshay_Lucene_BM25
+
+2 Q0  34                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Stellar_parallax.txt :score= 6.8291859  Akshay_Lucene_BM25
+
+2 Q0  35                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Observable_universe.txt :score= 6.7931029  Akshay_Lucene_BM25
+
+2 Q0  36                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Planetary_nebula.txt :score= 6.7823699  Akshay_Lucene_BM25
+
+2 Q0  37                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Cosmic_microwave_background.txt :score= 6.7595269  Akshay_Lucene_BM25
+
+2 Q0  38           C:\Users\Akshay\IdeaProjects\Hw5\corpus\Cosmic_microwave_background_radiation.txt :score= 6.7595269  Akshay_Lucene_BM25
+
+2 Q0  39                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Interstellar_space.txt :score= 6.7222569  Akshay_Lucene_BM25
+
+2 Q0  40                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Outer_space.txt :score= 6.7222569  Akshay_Lucene_BM25
+
+2 Q0  41                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Kuiper_belt.txt :score= 6.7097689  Akshay_Lucene_BM25
+
+2 Q0  42                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Parsec.txt :score= 6.4414779  Akshay_Lucene_BM25
+
+2 Q0  43                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Low_Earth_orbit.txt :score= 6.4049549  Akshay_Lucene_BM25
+
+2 Q0  44                                         C:\Users\Akshay\IdeaProjects\Hw5\corpus\Jupiter.txt :score= 6.3929789  Akshay_Lucene_BM25
+
+2 Q0  45                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Deep_Impact_(spacecraft).txt :score= 6.3642869  Akshay_Lucene_BM25
+
+2 Q0  46                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Dark_matter.txt :score= 6.3149899  Akshay_Lucene_BM25
+
+2 Q0  47                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Saturn.txt :score= 6.2898229  Akshay_Lucene_BM25
+
+2 Q0  48                                      C:\Users\Akshay\IdeaProjects\Hw5\corpus\Spacecraft.txt :score= 6.2893829  Akshay_Lucene_BM25
+
+2 Q0  49                                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\New_Horizons.txt :score= 6.2099389  Akshay_Lucene_BM25
+
+2 Q0  50                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\European_Space_Agency.txt :score= 6.0405439  Akshay_Lucene_BM25
+
+2 Q0  51                                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Universe.txt :score= 5.9845099  Akshay_Lucene_BM25
+
+2 Q0  52              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Timeline_of_scientific_discoveries.txt :score= 5.9625079  Akshay_Lucene_BM25
+
+2 Q0  53                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Age_of_the_universe.txt :score= 5.7256309  Akshay_Lucene_BM25
+
+2 Q0  54               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Timeline_of_planetary_exploration.txt :score= 5.7191349  Akshay_Lucene_BM25
+
+2 Q0  55            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Timeline_of_Solar_System_exploration.txt :score= 5.7191349  Akshay_Lucene_BM25
+
+2 Q0  56                             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Peculiar_velocities.txt :score= 5.7130109  Akshay_Lucene_BM25
+
+2 Q0  57                                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Titan_(moon).txt :score= 5.5687849  Akshay_Lucene_BM25
+
+2 Q0  58                                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_debris.txt :score= 5.4694409  Akshay_Lucene_BM25
+
+2 Q0  59                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Elliptical_galaxy.txt :score= 5.4555889  Akshay_Lucene_BM25
+
+2 Q0  60                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Flight_controller.txt :score= 5.4334419  Akshay_Lucene_BM25
+
+2 Q0  61                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Cepheid_variable.txt :score= 5.3656389  Akshay_Lucene_BM25
+
+2 Q0  62                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Aurora_(astronomy).txt :score= 5.2920539  Akshay_Lucene_BM25
+
+2 Q0  63                                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Polar_Aurora.txt :score= 5.2920539  Akshay_Lucene_BM25
+
+2 Q0  64                    C:\Users\Akshay\IdeaProjects\Hw5\corpus\Interplanetary_contamination.txt :score= 5.1108269  Akshay_Lucene_BM25
+
+2 Q0  65                                         C:\Users\Akshay\IdeaProjects\Hw5\corpus\243_Ida.txt :score= 5.0557399  Akshay_Lucene_BM25
+
+2 Q0  66                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Van_Allen_radiation_belt.txt :score= 5.0557399  Akshay_Lucene_BM25
+
+2 Q0  67                                           C:\Users\Akshay\IdeaProjects\Hw5\corpus\Pluto.txt :score= 5.0518449  Akshay_Lucene_BM25
+
+2 Q0  68                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Mercury_(planet).txt :score= 5.0386279  Akshay_Lucene_BM25
+
+2 Q0  69                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Supernova.txt :score= 5.0130949  Akshay_Lucene_BM25
+
+2 Q0  70                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Star_system.txt :score= 4.9015349  Akshay_Lucene_BM25
+
+2 Q0  71                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Recombination_(cosmology).txt :score= 4.7939849  Akshay_Lucene_BM25
+
+2 Q0  72                                   C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_Shuttle.txt :score= 4.6804949  Akshay_Lucene_BM25
+
+2 Q0  73                                  C:\Users\Akshay\IdeaProjects\Hw5\corpus\Alpha_Centauri.txt :score= 4.5991179  Akshay_Lucene_BM25
+
+2 Q0  74                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Space_architecture.txt :score= 4.5844079  Akshay_Lucene_BM25
+
+2 Q0  75                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Henrietta_Leavitt.txt :score= 4.5359999  Akshay_Lucene_BM25
+
+2 Q0  76                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Infrared_telescope.txt :score= 4.4517859  Akshay_Lucene_BM25
+
+2 Q0  77                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Radio_telescope.txt :score= 4.4484039  Akshay_Lucene_BM25
+
+2 Q0  78                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Voyager_2.txt :score= 4.3586019  Akshay_Lucene_BM25
+
+2 Q0  79                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Dawn_(spacecraft).txt :score= 4.3536059  Akshay_Lucene_BM25
+
+2 Q0  80                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Astrophysical_jet.txt :score= 4.2995539  Akshay_Lucene_BM25
+
+2 Q0  81                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Deep_space_exploration.txt :score= 4.2313289  Akshay_Lucene_BM25
+
+2 Q0  82                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Skygazing.txt :score= 4.2194109  Akshay_Lucene_BM25
+
+2 Q0  83                                      C:\Users\Akshay\IdeaProjects\Hw5\corpus\Black_hole.txt :score= 4.1716079  Akshay_Lucene_BM25
+
+2 Q0  84                                C:\Users\Akshay\IdeaProjects\Hw5\corpus\Lagrangian_point.txt :score= 4.1579649  Akshay_Lucene_BM25
+
+2 Q0  85                                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Hydrogen.txt :score= 4.1536699  Akshay_Lucene_BM25
+
+2 Q0  86                                     C:\Users\Akshay\IdeaProjects\Hw5\corpus\Light-years.txt :score= 4.0684949  Akshay_Lucene_BM25
+
+2 Q0  87                                      C:\Users\Akshay\IdeaProjects\Hw5\corpus\Light_year.txt :score= 4.0684949  Akshay_Lucene_BM25
+
+2 Q0  88                                 C:\Users\Akshay\IdeaProjects\Hw5\corpus\Radio_astronomy.txt :score= 3.9763999  Akshay_Lucene_BM25
+
+2 Q0  89                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Zenith.txt :score= 3.9763519  Akshay_Lucene_BM25
+
+2 Q0  90                                       C:\Users\Akshay\IdeaProjects\Hw5\corpus\Cosmology.txt :score= 3.9538479  Akshay_Lucene_BM25
+
+2 Q0  91                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Rosetta_(spacecraft).txt :score= 3.9065919  Akshay_Lucene_BM25
+
+2 Q0  92                                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Skylab.txt :score= 3.9003699  Akshay_Lucene_BM25
+
+2 Q0  93                                        C:\Users\Akshay\IdeaProjects\Hw5\corpus\Salyut_1.txt :score= 3.8881509  Akshay_Lucene_BM25
+
+2 Q0  94              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Japan_Aerospace_Exploration_Agency.txt :score= 3.8408289  Akshay_Lucene_BM25
+
+2 Q0  95                               C:\Users\Akshay\IdeaProjects\Hw5\corpus\Discovery_program.txt :score= 3.8397849  Akshay_Lucene_BM25
+
+2 Q0  96                          C:\Users\Akshay\IdeaProjects\Hw5\corpus\Apollo_Telescope_Mount.txt :score= 3.8164139  Akshay_Lucene_BM25
+
+2 Q0  97                            C:\Users\Akshay\IdeaProjects\Hw5\corpus\Galileo_(spacecraft).txt :score= 3.7948279  Akshay_Lucene_BM25
+
+2 Q0  98                              C:\Users\Akshay\IdeaProjects\Hw5\corpus\Galileo_spacecraft.txt :score= 3.7948279  Akshay_Lucene_BM25
+
+2 Q0  99             C:\Users\Akshay\IdeaProjects\Hw5\corpus\Orbiting_Astronomical_Observatory_2.txt :score= 3.7480229  Akshay_Lucene_BM25
+
+2 Q0 100C:\Users\Akshay\IdeaProjects\Hw5\corpus\Review_of_United_States_Human_Space_Flight_Plans_Committee.txt :score= 3.7396269  Akshay_Lucene_BM25
+

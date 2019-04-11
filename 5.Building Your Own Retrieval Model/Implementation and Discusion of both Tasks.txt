@@ -1,0 +1,30 @@
+3. Report describing your implementation.
+
+
+For Task 1, my program does the following steps:
+
+- Read inverted index (unigram term frequency) created from HW3
+
+- Read corpus to map docID-length and compute average length
+- Read query from inputor text file, split them and compute the query term frequency
+
+- For each document, calculate the sum of BM25 score for each query term
+
+- Rank the top 100 documents
+
+. 
+
+
+
+For Task 2, Im using lucene with the added modification of setting ranking as BM25 rather than tf-idf and then collecting top 100 ranked documents per query.
+
+
+A brief discussion comparing the top 5 results between the two search 
+engines for each query.
+
+
+By comparing the top 5 results from Lucene and BM25, I find that Lucene seems
+ to provide more related results to the query, especially for long queries.
+I think the cause is that for long queries, some documents with high frequency
+ of only one of the terms will have high BM25 while it's not very related to the
+ whole query topic.
