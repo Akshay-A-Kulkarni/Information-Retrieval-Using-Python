@@ -1,0 +1,22 @@
+Results comparison between BFS and DFS crawling:
+
+
+
+# In terms of URL Overlap
+ there were 14 out of 1000 links that turned out to be identical in both BFS and DFS. The results of two approaches to crawling  are mostly unique.
+
+
+
+# The perceived quality 
+By scanning through the output links of BFS and DFS, I find that BFS are more closely related to the original crawl seed. 
+On second thought it makes sense naturally as DFS tends to explore away from the seed first while BFS explores around the seed.
+
+
+
+# Efficiency
+ BFS is a little more efficient than DFS as DFS only adds one link to the result at a time.
+
+
+
+# Coverage of the crawl topic 
+as discussed in "Perceived quality", BFS has better coverage of the crawl topic due to the nature of the crawl.

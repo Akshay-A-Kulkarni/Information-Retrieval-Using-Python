@@ -1,0 +1,12 @@
+The keywords used for the focused crawl were :
+
+“Mars” “Rover” “Orbiter” “Pathfinder” “Mars Mission” “Mars Exploration”
+
+The variation between keywords was handled by converting then to all lowercaser in order for any permutation of the keyword to work.
+
+From inspecting the FBFS ( Focused BFS ) txt file it is evident that the links seem to be related to various fields ranging from :
+astronomical objects(Starts , Planets , Solar Systems) to Government/Space organizations to Rocket technologies  to astorobiology and people associated with space travel or astronomy.
+
+All in all the links seem to be adherng to the central theme of "Space" or "Space Exploration" therefore the results indeed seem to be quite focused.
+
+
